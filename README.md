@@ -5,9 +5,6 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:md.rajibahmed.mra@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) <br/>
 [![Stack Overflow Profile](https://img.shields.io/badge/%20-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24429780/rajib-ahmed)
 
-
-
-
 <br />
 
 Hi, I'm [Rajib Ahmed](http://rajibmra.intels.co/), a Full Stack Web Developer 🚀 from Bangladesh.Beside's programming, I enjoy traveling.
