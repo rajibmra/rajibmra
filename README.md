@@ -21,7 +21,7 @@ Hi, I'm [Rajib Ahmed](http://rajibmra.intels.co/), a Full Stack Web Developer �
 - 🌱 I’m currently learning / Exploring DevOps,GoLang and System Design;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@RajibAhmed](mailto:md.rajibahmed.mra@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.);
-- 📝[Resume](https://rajibmra.github.io/cv/Curriculum Vitae Rajib_Ahmed.pdf)
+- 📝[Resume](https://github.com/rajibmra/cv/blob/main/Curriculum%20Vitae%20Rajib_Ahmed.pdf)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
