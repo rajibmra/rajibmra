@@ -8,7 +8,6 @@
 
 
 
-
 <br />
 
 Hi, I'm [Rajib Ahmed](http://rajibmra.intels.co/), a Full Stack Web Developer 🚀 from Bangladesh.Beside's programming, I enjoy traveling.
@@ -40,6 +39,6 @@ Hi, I'm [Rajib Ahmed](http://rajibmra.intels.co/), a Full Stack Web Developer �
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShakilAhmmed&show_icons=true&theme=gotham" alt="RajibAhmed" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RajibAhmed&show_icons=true&theme=gotham" alt="RajibAhmed" />
 
 </details>
